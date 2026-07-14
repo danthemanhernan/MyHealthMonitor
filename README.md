@@ -55,6 +55,8 @@ Daily steps now prefer the Apple Watch source to avoid adding overlapping iPhone
 4. Build goal settings for weight trend, protein, steps, sleep, and workouts.
 5. Generate nudges from trend rules instead of static copy.
 
+See [`docs/NUTRITIONOPS_ROADMAP.md`](docs/NUTRITIONOPS_ROADMAP.md) for the phased plan to expand the project into a user-owned nutrition and health analytics platform.
+
 See `docs/MANUAL_DATA_EXPORT.md` for the first real-data collection steps.
 See `docs/SCIENCE_NOTES.md` for the evidence standard behind health rules like sleep debt.
 
