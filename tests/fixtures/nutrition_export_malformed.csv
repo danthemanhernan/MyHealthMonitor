@@ -1,0 +1,4 @@
+source_record_id,consumed_at,meal_type,food_name,quantity,quantity_unit,calories_kcal,protein_g,carbohydrates_g,fat_g,fiber_g
+bad-001,not-a-date,Lunch,Turkey Sandwich,1,serving,450,35,42,14,5
+bad-002,2026-07-11 13:00,Lunch,,1,serving,450,35,42,14,5
+bad-003,2026-07-11 19:00,Dinner,Chicken Breast,-6,oz,280,52,0,6,0
