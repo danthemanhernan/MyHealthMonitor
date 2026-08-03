@@ -1,0 +1,4 @@
+source_record_id,consumed_at,meal_type,food_name,quantity,quantity_unit,calories_kcal,protein_g,carbohydrates_g,fat_g,fiber_g
+meal-001,2026-07-08 08:00,Breakfast,Greek Yogurt,8,oz,130,23,8,0,0
+meal-002,2026-07-08 12:30,Lunch,Chicken Rice Bowl,1,serving,610,52,68,14,7
+meal-003,2026-07-09 18:15,Dinner,Salmon and Potatoes,1,serving,720,48,62,28,8
